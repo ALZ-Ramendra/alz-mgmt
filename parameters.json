@@ -8,7 +8,7 @@
   "NETWORK_TYPE": "hubNetworking",
   "LOCATION": "<region-1>",
   "LOCATION_PRIMARY": "<region-1>",
-  "MANAGEMENT_GROUP_ID": "alz-ramendra",
+  "MANAGEMENT_GROUP_ID": "",
   "LOCATION_SECONDARY": "<region-2>",
   "SUBSCRIPTION_ID_SECURITY": "c5b193b6-fec1-4d2b-9167-f29b16b3d7f4"
 }
